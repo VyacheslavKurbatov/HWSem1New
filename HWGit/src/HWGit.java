@@ -3,6 +3,8 @@ public class HWGit {
         System.out.println("Для домашнего задания 1");
 
         System.out.println("Для домашнего задания 2: commit 1");
-        
+
+        System.out.println("Для домашнего задания 2: commit 2");
+
     }
 }
