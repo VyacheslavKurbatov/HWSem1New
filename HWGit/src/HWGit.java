@@ -6,5 +6,7 @@ public class HWGit {
 
         System.out.println("Для домашнего задания 2: commit 2");
 
+        System.out.println("Для домашнего задания 2: commit 3");
+
     }
 }
